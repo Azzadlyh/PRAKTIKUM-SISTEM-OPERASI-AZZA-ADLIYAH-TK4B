@@ -111,11 +111,14 @@ berikut contohnya :
 
 29. **`'killall'`** menghentikan semua instance proses.  
 berikut contohnya :  
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/3c572f99-0f24-4161-a901-5b5b07ac6759)
 
 30. **`'man systemctl'`** untuk menampilkan manual (dokumentasi) untuk perintah systemctl pada sistem operasi Linux Red Hat.  
 berikut contohnya :  
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/fbaa0214-a76a-4326-bcb7-8d60ef3bc517)
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/39e8541a-5d0d-410b-beda-854b73e87eaf)
 
 31. **`'man systemctl'`** untuk menampilkan informasi berbagai aspek koneksi jaringan pada sistem Linux.
@@ -163,10 +166,12 @@ berikut contohnya :
 
 41. **`'chmod'`** untuk mengatur izin akses file atau direktori.
 berikut contohnya :
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/9e4b748b-54fc-4a15-9c19-5bb4ca6b8f31)
 
 42. **`'man ls'`** untuk menampilkan manual suatu perintah.
 berikut contohnya :
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/a3ec9890-0055-4d50-b594-bbe7b0586a62)  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/37acd1a5-9925-42e3-aa9e-ebcc99056874)
 
