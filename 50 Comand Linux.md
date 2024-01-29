@@ -176,31 +176,42 @@ berikut contohnya :
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/37acd1a5-9925-42e3-aa9e-ebcc99056874)
 
 43. **`'touch'`** digunakan untuk membuat file kosong atau memperbarui timestamp.
+
 berikut contohnya :  
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/f22facd8-2d6a-4778-a9f7-9ccac892ba94)
 
 44. **`'help'`** ntuk memberikan bantuan dan informasi tentang built-in shell commands.
+
 berikut contohnya :  
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/16fbf8a6-8ee8-43a8-a694-6a5c8034291d)
 
 45. **`'nano'`** untuk tempat editor teks konsol untuk mengedit file.  
+
 berikut contohnya :   
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/0efe4514-c6b6-4fa0-aa16-3865f477f11b)
 
 46. **`'mv'`** untuk menampilkan faktor-faktor dari suatu bilangan.  
+
 berikut contohnya :
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/78ff77b1-d644-4f37-97aa-3895c2fd5c04)
 
 47. **`'script'`** untuk merekam sesi terminal ke dalam file.  
 berikut contohnya :  
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/cfc49660-00fe-4897-acf8-ffa5060c3ede)
 
 48. **`'renice'`** untuk mengubah prioritas proses yang sedang berjalan.  
 berikut contohnya : 
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/11ed2b0c-9d68-46e0-9f8d-36bc717e49a3)
 
 49. **`'fold'`** untuk memformat teks agar sesuai lebar layar.  
 berikut contohnya :
+
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/c94d7642-b6e8-4f6c-ba3b-cff0272dfb42)
 
 50. **`'find'`** Command ini dapat digunakan untuk mencari file dan direktori berdasarkan kriteria tertentu. Penggunaan syntax dan opsi yang berbeda dapat membuatnya tampak kompleks.  
