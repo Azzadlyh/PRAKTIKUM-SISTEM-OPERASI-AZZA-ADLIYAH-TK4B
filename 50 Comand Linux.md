@@ -186,19 +186,19 @@ berikut contohnya :
 berikut contohnya :
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/78ff77b1-d644-4f37-97aa-3895c2fd5c04)
 
-47. **`'script'`** untuk merekam sesi terminal ke dalam file.
+47. **`'script'`** untuk merekam sesi terminal ke dalam file.  
 berikut contohnya :  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/cfc49660-00fe-4897-acf8-ffa5060c3ede)
 
-48. **`'renice'`** untuk mengubah prioritas proses yang sedang berjalan.
+48. **`'renice'`** untuk mengubah prioritas proses yang sedang berjalan.  
 berikut contohnya : 
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/11ed2b0c-9d68-46e0-9f8d-36bc717e49a3)
 
-49. **`'fold'`** untuk memformat teks agar sesuai lebar layar.
-50. berikut contohnya :
+49. **`'fold'`** untuk memformat teks agar sesuai lebar layar.  
+berikut contohnya :
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/c94d7642-b6e8-4f6c-ba3b-cff0272dfb42)
 
-52. **`'find'`** Command ini dapat digunakan untuk mencari file dan direktori berdasarkan kriteria tertentu. Penggunaan syntax dan opsi yang berbeda dapat membuatnya tampak kompleks.
+50. **`'find'`** Command ini dapat digunakan untuk mencari file dan direktori berdasarkan kriteria tertentu. Penggunaan syntax dan opsi yang berbeda dapat membuatnya tampak kompleks.  
 berikut contohnya :  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/9e0dadd6-075b-427a-8162-7996fafb97ce)
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/efa51235-22e5-459a-9583-c8f418fb0d57)  
