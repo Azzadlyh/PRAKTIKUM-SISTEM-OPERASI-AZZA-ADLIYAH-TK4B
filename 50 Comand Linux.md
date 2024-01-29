@@ -89,7 +89,8 @@ berikut contohnya :
 berikut contohnya :  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/7d7c59cf-d99e-4613-893b-49e1bc41719e)
 
-23. **`'ping'`** 
+23. **`'ping'`** untuk menguji keneksi jaringan dan mengukur waktu responsdari server.
+berikut contohnya :  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/6bffe7fd-5a13-4fc6-b00e-8ee50cd2dcc5)
 
 24. **`'traceroute'`** digunakan untuk melacak rute paket data dari suatu host ke tujuan tertentu di jaringan.  
@@ -112,17 +113,95 @@ berikut contohnya :
 berikut contohnya :  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/3c572f99-0f24-4161-a901-5b5b07ac6759)
 
+29. **`'man systemctl'`** untuk menampilkan manual (dokumentasi) untuk perintah systemctl pada sistem operasi Linux Red Hat.  
+berikut contohnya :  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/fbaa0214-a76a-4326-bcb7-8d60ef3bc517)
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/39e8541a-5d0d-410b-beda-854b73e87eaf)
 
+31. **`'man systemctl'`** untuk menampilkan informasi berbagai aspek koneksi jaringan pada sistem Linux.
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/e7e55a17-2a95-40df-ab75-4983d435c646)
 
+32. **`'dig'`** untuk menampilkan DNS (Domain Name System).
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/393d343d-5dc6-4c70-ab4e-32269a5494f8)
 
+33. **`'journalctl'`** untuk menampilkan log jurnal system.
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/1ff5267f-02fd-4cf3-8762-ce1388347d30)
 
+34. **`'firewalld'`** digunakan untuk mengelola firewall dan menggunakan firewalld.
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/0043bb45-2877-4176-82d8-622ec767b1a8)
 
+35. **`'yum'`** memiliki fungsi utama sebagai alat manajemen paket.  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/73885a5d-d722-49a8-b85b-6aefd98afcd6)
 
+36. **`'unzip'`** untuk mengekstrak file yang dikompresi.  
+berikut contohnya :  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/6c7cedaa-3eb6-43ef-98d7-ecf5102e17bb)
 
+37. **`'tar'`** untuk mengarsipkan atau mengekstrak file.  
+berikut contohnya :
+`tar -cvf archive.tar file1 file2`  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/ace1bf11-517b-41ce-b4a1-11308e2793f0)
 
+38. **`'wget'`** untuk mengunduh file dari internet.
+berikut conothnya :
+`wget "link"`   
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/5bd86861-dbd8-4f2f-a154-2bd808d6e235)
 
+39. **`'awk'`** untuk memproses dan menampilkan data.
+berikut contohnya :
+`awk '{print $1}' file.txt`  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/e7de4543-bcce-4c2f-a48c-2ebf976a3c0a)
 
+40. **`'scp'`** untuk mengirim file melalui SSH.
+berikut contohnya :
+`scp file.txt username@hostname:/path`  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/d90d7052-926e-4f6c-a131-d837882564e0)
 
+41. **`'chmod'`** untuk mengatur izin akses file atau direktori.
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/9e4b748b-54fc-4a15-9c19-5bb4ca6b8f31)
+
+42. **`'man ls'`** untuk menampilkan manual suatu perintah.
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/a3ec9890-0055-4d50-b594-bbe7b0586a62)  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/37acd1a5-9925-42e3-aa9e-ebcc99056874)
+
+43. **`'touch'`** digunakan untuk membuat file kosong atau memperbarui timestamp.
+berikut contohnya :  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/f22facd8-2d6a-4778-a9f7-9ccac892ba94)
+
+44. **`'help'`** ntuk memberikan bantuan dan informasi tentang built-in shell commands.
+berikut contohnya :  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/16fbf8a6-8ee8-43a8-a694-6a5c8034291d)
+
+45. **`'nano'`** untuk tempat editor teks konsol untuk mengedit file.  
+berikut contohnya :   
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/0efe4514-c6b6-4fa0-aa16-3865f477f11b)
+
+46. **`'mv'`** untuk menampilkan faktor-faktor dari suatu bilangan.  
+berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/78ff77b1-d644-4f37-97aa-3895c2fd5c04)
+
+47. **`'script'`** untuk merekam sesi terminal ke dalam file.
+berikut contohnya :  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/cfc49660-00fe-4897-acf8-ffa5060c3ede)
+
+48. **`'renice'`** untuk mengubah prioritas proses yang sedang berjalan.
+berikut contohnya : 
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/11ed2b0c-9d68-46e0-9f8d-36bc717e49a3)
+
+49. **`'fold'`** untuk memformat teks agar sesuai lebar layar.
+50. berikut contohnya :
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/c94d7642-b6e8-4f6c-ba3b-cff0272dfb42)
+
+52. **`'find'`** Command ini dapat digunakan untuk mencari file dan direktori berdasarkan kriteria tertentu. Penggunaan syntax dan opsi yang berbeda dapat membuatnya tampak kompleks.
+berikut contohnya :  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/9e0dadd6-075b-427a-8162-7996fafb97ce)
+![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/efa51235-22e5-459a-9583-c8f418fb0d57)  
 
 
 
