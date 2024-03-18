@@ -10,7 +10,7 @@ Berikut adalah langkah-langkah untuk membuat penggunaan SSH remote ke VirtualBox
    ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/ba3899d1-0b93-4f8f-94f8-29d2920ba78e)  
 
 3. `Periksa Alamat IP:`  
-   Jalankan perintah ifconfig di terminal untuk mengetahui alamat IP mesin virtual Ubuntu Desktop.
+   Jalankan perintah ifconfig di terminal untuk mengetahui alamat IP mesin virtual Ubuntu Desktop.  
    ![image](https://github.com/Azzadlyh/PRAKTIKUM-SISTEM-OPERASI-AZZA-ADLIYAH-TK4B/assets/126213404/38c0a6c5-670c-4af5-a1a5-7549a7639a4a)
 
    cek IP user lain untuk kita remote
